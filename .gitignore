@@ -1,10 +1,1 @@
-# vim
-*.swp
-*.swo
-
-# emacs
-\#*\#
-*~
-
-# 
 /build
